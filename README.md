@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @MattHamp21
-- 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on intresting projects
-- 📫 How to reach me Matthewhamp3@gmail.com
+- Hi, my name is Matthew Hamp
+- I'm currently learning how to code
+- I recently graduated from a coding bootcamp
+- I am currently learning more about javascript
+- you can reach me at Matthewhamp3@gmail.com
+
+
 
 <!---
 MattHamp21/MattHamp21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
