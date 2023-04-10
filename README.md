@@ -1,7 +1,7 @@
 - Hi, my name is Matthew Hamp
 - I'm currently learning how to code
 - I recently graduated from a coding bootcamp
-- I am currently learning more about javascript
+- I am currently learning more about javascript & PHP
 - you can reach me at Matthewhamp3@gmail.com
 
 
